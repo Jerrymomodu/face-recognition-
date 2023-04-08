@@ -25,4 +25,4 @@ This project consist of 4 parts, which are:
 
 ## Credit to:
 #### Michael Olatunji 
-#### All rights reserved to the respective owner
+#### All rights reserved to their respective owners
