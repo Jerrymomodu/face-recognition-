@@ -1,0 +1,3 @@
+This is the first file created on the command line 
+
+THe purpose is to show how command line files are created.
